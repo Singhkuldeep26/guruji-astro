@@ -23,7 +23,7 @@ const Navbar = () => {
       </div>
       <div className={Style.user}>
         <img
-          src="https://avatars.githubusercontent.com/u/99132893?s=400&u=e3458f17919693e71c9ad3530dfc732edb092213&v=4"
+          src="https://avatars.githubusercontent.com/u/96339840?s=400&u=18bbed33b28cbc89837597b1d931f6fe07db7810&v=4"
           alt="user-profile-pic"
         />
       </div>
